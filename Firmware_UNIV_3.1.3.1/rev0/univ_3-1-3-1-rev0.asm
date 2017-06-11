@@ -15,7 +15,7 @@
 ;   You should have received a copy of the GNU General Public License
 ;   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ;==============================================================================
-;   Filename:              univ_3-1-3-0.asm
+;   Filename:              univ_3-1-3-1.asm
 ;   Associated diagram:    univ_3-1-3-x.sch
 ;   Author:                Jacek Siwilo                          
 ;   Note:                  14 channel button & temp module with thermostat
